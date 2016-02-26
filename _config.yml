@@ -1,0 +1,70 @@
+url: https://mah3uz.github.io
+baseurl: /mah3uz/
+
+# Site settings
+title: mah3uz - IT Consultancy Inc.
+email: admin@mah3uz.com
+description: "Web Site development and Consulting Team. We beleive nothing is impossible in IT, You just need to imagine and wish it. Your wish our code."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: fed136
+  secondary: fec503  
+  secondary-dark: 333
+
+# Team names, titles and social links
+people:
+- name: Mahfuz Ahmed
+  pic: 1
+  position: System Administrator & Web Developer
+  social:
+    - title: twitter
+      url: https://twitter.com/mah3uz
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Fahmida Shanta
+  pic: 2
+  position: Senior Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/mah3uz
+  - title: facebook
+    url: http://facebook.com/mah3uzit
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/python
+  - title: bitbucket 
+    url: http://bitbucket.org/mah3uz
+  - title: github
+    url: http://github.com/mah3uz
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 101, Elaipur, Rupsha
+  - line: Khulna, BD 9241
+
+# Build settings
+markdown: kramdown
+permalink: prettSy
