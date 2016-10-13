@@ -9,7 +9,8 @@ thumbnail: ArchitecturalPhotography.png
 alt: ArchitecturalPhotography
 project-date: April 2014
 client: Stormy Seas Photography
+client-url: http://architecturalphotography.co
 category: Web Development
-description: Develop full featured WordPress website for Stormy Seas Photography see live website: http://ArchitecturalPhotography.co .
+description: Develop full featured WordPress website for Stormy Seas Photography.
 
 ---
